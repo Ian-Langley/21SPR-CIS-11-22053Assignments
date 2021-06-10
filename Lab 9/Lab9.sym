@@ -1,0 +1,27 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	C                       30AA
+//	D                       30AB
+//	DAYS                    3062
+//	DISPLAY                 3034
+//	DIV                     3040
+//	DIVEND                  304E
+//	DIVENDNOR               304C
+//	DIVLOOP                 3047
+//	END                     3061
+//	F                       30B2
+//	K                       30A9
+//	LOOP                    3030
+//	M                       30AD
+//	MODF                    30B3
+//	MULT                    3036
+//	MULTLOOP                303B
+//	NEWC                    30B4
+//	NEWM                    30AE
+//	NOTJANFEB               3007
+//	QUOTOFC                 30B1
+//	QUOTOFD                 30B0
+//	QUOTOFM                 30AF
+//	R                       30AC
+//	X                       30A8
+//	ZELLERS                 3052
